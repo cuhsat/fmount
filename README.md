@@ -36,7 +36,7 @@ Required system commands:
 - [mount](https://man7.org/linux/man-pages/man8/mount.8.html)
 - [umount](https://man7.org/linux/man-pages/man8/umount.8.html)
 
-## Image Types
+## Formats
 Supported image types on Linux host systems:
 
 - [vdi](https://forensics.wiki/virtual_disk_image_%28vdi%29/)
