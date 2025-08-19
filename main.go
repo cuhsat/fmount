@@ -39,9 +39,9 @@ import (
 	"flag"
 	"io"
 
-	"github.com/hiforensics/utils/pkg/sys"
+	"github.com/cuhsat/futils/pkg/sys"
 
-	"github.com/hiforensics/fmount/internal/fmount"
+	"github.com/cuhsat/fmount/internal/fmount"
 )
 
 func main() {
