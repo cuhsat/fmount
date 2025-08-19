@@ -1,5 +1,5 @@
-module github.com/hiforensics/fmount
+module github.com/cuhsat/fmount
 
 go 1.24
 
-require github.com/hiforensics/utils v0.1.2 // indirect
+require github.com/cuhsat/futils v0.1.2 // indirect

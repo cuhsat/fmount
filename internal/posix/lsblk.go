@@ -3,7 +3,7 @@ package posix
 import (
 	"strings"
 
-	"github.com/hiforensics/utils/pkg/sys"
+	"github.com/cuhsat/futils/pkg/sys"
 )
 
 func LsBlk(dev, col string) (ls []string, err error) {

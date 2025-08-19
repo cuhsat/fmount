@@ -5,9 +5,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/hiforensics/fmount/internal/posix"
-	"github.com/hiforensics/utils/pkg/sys"
-	"github.com/hiforensics/utils/pkg/zip"
+	"github.com/cuhsat/fmount/internal/posix"
+	"github.com/cuhsat/futils/pkg/sys"
+	"github.com/cuhsat/futils/pkg/zip"
 )
 
 func TestMain(m *testing.M) {

@@ -1,12 +1,12 @@
 # fmount
-[![Go Reference](https://pkg.go.dev/badge/github.com/hiforensics/fmount.svg)](https://pkg.go.dev/github.com/hiforensics/fmount)
-[![Go Report Card](https://goreportcard.com/badge/github.com/hiforensics/fmount?style=flat-square)](https://goreportcard.com/report/github.com/hiforensics/fmount)
-[![Release](https://img.shields.io/github/release/hiforensics/fmount.svg?style=flat-square)](https://github.com/hiforensics/fmount/releases/latest)
+[![Go Reference](https://pkg.go.dev/badge/github.com/cuhsat/fmount.svg)](https://pkg.go.dev/github.com/cuhsat/fmount)
+[![Go Report Card](https://goreportcard.com/badge/github.com/cuhsat/fmount?style=flat-square)](https://goreportcard.com/report/github.com/cuhsat/fmount)
+[![Release](https://img.shields.io/github/release/cuhsat/fmount.svg?style=flat-square)](https://github.com/cuhsat/fmount/releases/latest)
 
 Mount various disk images for forensic read-only processing.
 
 ```console
-go install github.com/hiforensics/fmount@latest
+go install github.com/cuhsat/fmount@latest
 ```
 
 ## Usage

@@ -7,15 +7,15 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/hiforensics/utils/pkg/hash"
-	"github.com/hiforensics/utils/pkg/sys"
-	"github.com/hiforensics/utils/pkg/zip"
+	"github.com/cuhsat/futils/pkg/hash"
+	"github.com/cuhsat/futils/pkg/sys"
+	"github.com/cuhsat/futils/pkg/zip"
 
-	"github.com/hiforensics/fmount/internal/posix"
+	"github.com/cuhsat/fmount/internal/posix"
 )
 
 const (
-	Version = "0.5.0"
+	Version = "0.5.2"
 )
 
 func Mount(img, mnt, key string, so bool, xargs []string) (parts []string, err error) {

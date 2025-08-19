@@ -1,7 +1,7 @@
 package posix
 
 import (
-	"github.com/hiforensics/utils/pkg/sys"
+	"github.com/cuhsat/futils/pkg/sys"
 )
 
 func Mount(dev, dir string, lo bool) (err error) {

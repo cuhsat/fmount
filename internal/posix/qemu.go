@@ -1,7 +1,7 @@
 package posix
 
 import (
-	"github.com/hiforensics/utils/pkg/sys"
+	"github.com/cuhsat/futils/pkg/sys"
 )
 
 const (
